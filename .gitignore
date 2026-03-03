@@ -39,3 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+the-clean-ppt-firebase-adminsdk-fbsvc-8be91956d9.json
